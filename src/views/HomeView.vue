@@ -48,11 +48,11 @@ export default {
       id="home-title"
       class="text-6xl md:text-6xl font-bold text-[color:var(--primary-black)] custom-text text-center mb-8"
     >
-      Quizz
       <span
         class="bg-[color:var(--primary-black)] text-[color:var(--background-white)] ps-4 pe-3 pb-0.5 pt-1 rounded-xl custom-text"
         >IT</span
       >
+      Quizz
     </h1>
 
     <div class="flex justify-center mb-6">

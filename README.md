@@ -1,6 +1,6 @@
-# Quizz IT
+# IT Quizz
 
-Quizz IT is a simple and fun quiz app designed to help you test your knowledge across various topics. You can easily browse, search, and take quizzes to enhance your skills!
+IT Quizz is a simple and fun quiz app designed to help you test your knowledge across various topics. You can easily browse, search, and take quizzes to enhance your skills!
 
 ## Features
 
@@ -26,8 +26,8 @@ Quizz IT is a simple and fun quiz app designed to help you test your knowledge a
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/KaungKhantKyaw1997/quizz-it.git
-   cd quizz-it
+   git clone https://github.com/KaungKhantKyaw1997/it-quizz.git
+   cd it-quizz
    ```
 
 2. **Install Dependencies**:
