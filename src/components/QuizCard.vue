@@ -27,7 +27,11 @@ export default {
     @click="goToQuestions"
   >
     <div class="image-container">
-      <img class="w-full" :src="`https://quiz-trove.onrender.com/${quiz.image}`" alt="Quiz image" />
+      <img
+        class="w-full"
+        :src="quiz.image ? `data:image/png;base64,${quiz.image}` : ''"
+        alt="Quiz image"
+      />
     </div>
     <div class="overlay">
       <div class="text-content">
